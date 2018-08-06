@@ -1,6 +1,6 @@
 import { Dish } from './dish';
 
-export const DISHES: Dish[] = [
+ export const DISHES: Dish[] = [
     {
         name: 'Uthappizza',
         image: '/assets/images/uthappizza.png',
